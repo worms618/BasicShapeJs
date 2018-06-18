@@ -1,0 +1,15 @@
+{
+  "name": "basicshapes",
+  "version": "0.0.1",
+  "description": "A set of basic shape classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "Remco Vorthoren",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
